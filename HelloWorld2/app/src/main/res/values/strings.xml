@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="welcome_message">This is the first application from Group 7</string>
+    <string name="develop_message">This application was developed by</string>
+    <string name="member1">Mārtiņš Jēkabs Ausmanis</string>
+    <string name="member2">Markus Vilcāns</string>
+    <string name="member3">Harijs Vīksna</string>
+    <string name="member4">Ieva Ulme</string>
+
+</resources>
